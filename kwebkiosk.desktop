@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WebKiosk
+Comment=Kiosk session
+Exec=/usr/bin/startkwebkiosk
+Type=Application
