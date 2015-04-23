@@ -27,4 +27,4 @@ xset -dpms
 xset s noblank
 
 /usr/bin/matchbox-window-manager &
-exec /usr/bin/kweb -KHCUA+-zbhrqfpoklgtjneduwxy http://www.reussi.fi/
+exec /usr/bin/kweb -KJEBHUA http://www.reussi.fi/
